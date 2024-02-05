@@ -1,9 +1,12 @@
-Mistakes
+## RAMEN
+# Mistakes
+
     Not enough flavor on mushrooms
     Not enough flavor in salad
     needs creaminess in the broth
 
-Best plan
+# Best plan
+
     Homemade broth from chicken or pork bones
     Blanched greens or sprouts
     sauteed mushrooms with salt, butter, garlic
