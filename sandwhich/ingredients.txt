@@ -1,0 +1,22 @@
+# sandwhich
+
+## bread
+
+- baguette bread = really good
+
+## sauce
+
+- homemade pesto = good natural flavor, tastes fresh
+
+## cheese
+
+- comte = smokey, creamy flavor
+
+## meat
+
+- prosciutto = salty and fatty
+- bacon = smoky and fatty
+
+## vegetables
+
+- roasted tomato = good smokiness and tanginess
